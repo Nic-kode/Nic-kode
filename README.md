@@ -1,7 +1,7 @@
 
 
   <!-- Welcome -->
-<h1  align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Dominick!</h1>
 
   <!-- Typing Text -->
 <p align="center">
@@ -58,7 +58,7 @@
 <p align="right">
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dominick-ncogo&style=for-the-badge" alt="Profile views" height="25" /></a>
-    <a href="mailto:dominickncogo@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+    <a href="mailto:dominickncogo@gmail.com?subject=Hello%20Dominick"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
     <a href="https://portfolio-5pkx.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
     <a href="https://www.linkedin.com/in/dominick-ncogo-gili/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
