@@ -32,6 +32,7 @@
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
           <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
           <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://cdn-icons-mp4.flaticon.com/512/6454/6454035.mp4" width="50" alt="JavaScript logo" />
         </td>
     </tr>
     <tr>
