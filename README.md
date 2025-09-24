@@ -9,7 +9,7 @@
 </p>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src=""/>
+<!-- <img align="left" height="150" src=""/> -->
 
   <!-- Description -->
 ```diff
