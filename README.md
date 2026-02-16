@@ -13,7 +13,7 @@
 
   <!-- Description -->
 ```diff
-🛠️ +1 year of programming experience.
+🛠️ +2 year of programming experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Fullstack Developer.
 -  🚀 Optimizing web pages.
